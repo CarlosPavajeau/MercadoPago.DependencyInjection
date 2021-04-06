@@ -2,6 +2,16 @@
 
     <PropertyGroup>
         <TargetFramework>net5.0</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageId>MercadoPago.Extensions.Microsoft.DependencyInjection</PackageId>
+        <Title>Mercado Pago Dependency Injection</Title>
+        <Authors>cantte</Authors>
+        <Copyright>2020</Copyright>
+        <PackageProjectUrl>https://github.com/cantte/MercadoPago.DependencyInjection</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/cantte/MercadoPago.DependencyInjection</RepositoryUrl>
+        <PackageTags>mercadopago,net5,netcore</PackageTags>
+        <PackageLicenseUrl>https://github.com/cantte/MercadoPago.DependencyInjection/blob/master/LICENSE</PackageLicenseUrl>
+        <PackageIconUrl>https://avatars2.githubusercontent.com/u/900583</PackageIconUrl>
     </PropertyGroup>
 
     <ItemGroup>
