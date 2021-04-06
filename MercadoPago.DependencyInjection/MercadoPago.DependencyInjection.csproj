@@ -12,6 +12,7 @@
         <PackageTags>mercadopago,net5,netcore</PackageTags>
         <PackageLicenseUrl>https://github.com/cantte/MercadoPago.DependencyInjection/blob/master/LICENSE</PackageLicenseUrl>
         <PackageIconUrl>https://avatars2.githubusercontent.com/u/900583</PackageIconUrl>
+        <Description>This project is an extension of the MercadoPago SDK, it configures the injection of dependencies for projects that require it.</Description>
     </PropertyGroup>
 
     <ItemGroup>
