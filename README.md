@@ -1,5 +1,5 @@
 # MercadoPago.DependencyInjection
-### This project is an extension of the paid market SDK, it configures the injection of dependencies for projects that require it.
+### This project is an extension of the MercadoPago SDK, it configures the injection of dependencies for projects that require it.
 
 <hr/>
 
