@@ -10,7 +10,7 @@
 ## Usage (Example for ASP.NET core)
 Configure in StartUp class.
 ```csharp
-using MercadoPago.Extensions.Microsoft.DependencyInjection;
+using MercadoPago.DependencyInjection;
 // ...
 // ...
 
