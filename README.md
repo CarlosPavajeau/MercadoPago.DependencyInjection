@@ -21,6 +21,15 @@ public void ConfigureServices(IServiceCollection services)
   // ....
 }
 ```
+Add the following section to your appsettings.json
+```json
+"MercadoPago" : {
+    "AccessToken": "ACCESS_TOKEN",
+    "CorporationId": "CORPORATION_ID",
+    "IntegratorId": "INTEGRATOR_ID",
+    "PlatformId": "PLATFORM_ID"
+  }
+```
 
 Once configured, the MercadoPago clients can be used in the same way as other injected services.
 
